@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/https://www.instagram.com/dimasssscs/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/dimasssscs/" height="40" width="40" /></a>
+<a href="https://www.instagram.com/dimasssscs/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/dimasssscs/" height="40" width="40" /></a>
 <a href="https://t.me/dimassolovev" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Telegram_Messenger.png/800px-Telegram_Messenger.png" alt="https://www.instagram.com/dimasssscs/" height="40" width="40" /></a>
 <a href="mailto:gohasoxx@gmail.com" target="blank"><img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" alt="https://www.instagram.com/dimasssscs/" height="30" width="40" /></a>
 </p>
